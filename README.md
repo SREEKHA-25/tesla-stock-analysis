@@ -36,23 +36,13 @@
 
 #### 
 
-#### &nbsp;1. Tesla Daily Stock Summary
+#### &nbsp;1. Tesla Daily Stock Summary  
+![Tesla Summary](tesla_summary.png)
 
+---
 
-
-###### &nbsp;    !\[Tesla Summary](tesla\_summary.png)
-
-###### 
-
-#### ---
-
-#### 
-
-* #### &nbsp;Raw Data + Interactive Pivot Chart
-
-
-#### &nbsp;    !\[Tesla Pivot Chart](Tesla\_pivot\_chart.png)
-
+### 2. Raw Data + Interactive Pivot Chart  
+![Tesla Pivot Chart](Tesla_pivot_chart.png)
 #### 
 
 ###### \- The above includes:
