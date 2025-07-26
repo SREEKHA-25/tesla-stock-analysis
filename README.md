@@ -139,7 +139,7 @@
 
 #### &nbsp; Sreekha M – Aspiring Data Analyst  
 
-#### &nbsp; Connect with me on \[LinkedIn](www.linkedin.com/in/sreekham2000)
+#### &nbsp; Connect with me on \[LinkedIn](https://www.linkedin.com/in/sreekham2000)
 
 #### 
 
