@@ -49,7 +49,7 @@
 #### 
 
 * #### &nbsp;Raw Data + Interactive Pivot Chart
-* 
+
 
 #### &nbsp;    !\[Tesla Pivot Chart](Tesla\_pivot\_chart.png)
 
