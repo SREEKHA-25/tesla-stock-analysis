@@ -135,7 +135,24 @@
 
 #### ---
 
-#### 
+# Job Market Analysis – Germany (2025)
+
+Analyzed 9,000+ European job listings using SQL & Python to uncover top in-demand skills, hiring hotspots, and role trends.  
+
+##  Tools
+- SQL  
+- Python (Pandas, Matplotlib)  
+- SQLite  
+
+##  Key Insights
+- Identified the **top 5 in-demand skills** across Europe (Excel, Python, Power BI, etc.)  
+- Highlighted **Germany’s job hotspots** and hiring trends  
+- Extracted actionable insights to guide business & hiring strategies  
+
+## 🔗 Project Link
+[Job Market Analysis – Germany](https://github.com/SREEKHA-25/job-market-analysis-germany)
+
+
 
 
 
